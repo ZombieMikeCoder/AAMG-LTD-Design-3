@@ -1,0 +1,135 @@
+/* Style For Main Site Background */
+body {
+background-image: url("../Images/Page_Background_Image.jpg");
+width: 1024px;
+margin: auto; 
+}
+
+
+/* Style For Menu Button Bar */
+.nav_bar {
+background-color: black;
+width: 1024px;
+margin: auto; 
+border-style: solid;
+border-width: 3px;
+}
+
+
+/* Style For Menu Buttons */
+.menubutton {
+background-color: #57a33e;
+color: white;
+margin-left: 23px;
+margin-top: 15px;
+margin-bottom: 15px;
+padding: 10px 5px;
+font-size: 15px;
+font-family: Verdana;
+border: solid 2px; 
+border-radius: 7px;
+cursor: pointer;
+display: inline-block;
+}
+
+
+/* Top Menu Button Hover Color */
+.menubutton:hover {
+background-color: #75db53;
+}
+
+
+/* Top Menu Button Text Color */
+.menubutton a {
+text-decoration: none;
+color: white;
+}
+
+
+/* Style For Content Middle HTML Section */
+.content {
+background-image: url("../Images/Carbon_Fiber_Background.jpg");
+width: 1024px;
+height: auto;
+margin: auto; 
+border-style: solid;
+border-width: 3px;
+}
+
+
+/* Style For Page Text */
+.text {
+color: white;
+font-family: Verdana;
+font-size: 15px;
+text-align: justify;
+margin-left: 70px;
+margin-right: 70px;
+padding: 5px;
+}
+
+
+/* Style For Heading Text */
+.title_text {
+color: white;
+font-family: Verdana;
+font-size: 20px;
+text-align: justify;
+margin-left: 40px;
+margin-right: 40px;
+padding: 5px;
+text-decoration: underline;
+}
+
+
+/* Style For Hyperlink Text */
+.hyperlinks {
+color: #00CC33;
+}
+
+
+/* Style For Testing Checklist Main Div */
+.checklist {
+align-content: center;
+}
+
+
+/* Style For Testing Checklist Header Text */
+.list_header_text {
+color: #00CC33;
+font-family: Verdana;
+font-size: 14px;
+text-align: center;
+margin-left: 35px;
+text-decoration: underline;
+}
+
+
+/* Style For Testing Checklist Numbered Text */
+.list_text {
+color: white;
+font-family: Verdana;
+font-size: 13px;
+text-align: center;
+margin-left: 35px;
+}
+
+
+/* Style For Left Page Image 1 */
+.motorcycle_img_1 {
+float: left;
+margin-top: 60px;
+margin-left: 70px;
+margin-right: 40px;
+}
+
+
+/* Style For Left Page Image 2 */
+.motorcycle_img_2 {
+float: left;
+margin-top: 60px;
+margin-left: 70px;
+margin-right: 40px;
+margin-bottom: 50px;
+}
+

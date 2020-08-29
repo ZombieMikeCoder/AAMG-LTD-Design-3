@@ -1,0 +1,16 @@
+--------------------------------------------------------------
+         000 Web Host - AAMG Test Site FTP Details
+--------------------------------------------------------------
+
+Domain Name = www.aamgtestsitemike.000webhostapp.com
+
+Host Name = files.000webhost.com
+
+Website Password = w$AG@dcbx*7$wDMf5sa&
+
+Port = 21
+
+Username = aamgtestsitemike
+
+--------------------------------------------------------------
+

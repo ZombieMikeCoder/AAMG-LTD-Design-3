@@ -1,0 +1,96 @@
+/* Style For Main Site Background */
+body {
+background-image: url("../Images/Page_Background_Image.jpg");
+width: 1024px;
+margin: auto; 
+}
+
+
+/* Style For Menu Button Bar */
+.nav_bar {
+background-color: black;
+width: 1024px;
+margin: auto;
+border-style: solid;
+border-width: 3px;
+}
+
+
+/* Style For Menu Buttons */
+.menubutton {
+background-color: #57a33e;
+color: white;
+margin-left: 17px;
+margin-top: 15px;
+margin-bottom: 15px;
+padding: 10px 5px;
+font-size: 15px;
+font-family: Verdana;
+border: solid 2px; 
+border-radius: 7px;
+cursor: pointer;
+display: inline-block;
+}
+
+
+/* Top Menu Button Hover Color */
+.menubutton:hover {
+background-color: #75db53;
+}
+
+
+/* Top Menu Button Text Color */
+.menubutton a {
+text-decoration: none;
+color: white;
+}
+
+
+/* Style For Content Middle HTML Section */
+.content {
+background-image: url("../Images/Carbon_Fiber_Background.jpg");
+width: 1024px;
+margin: auto; 
+height: auto;
+border-style: solid;
+border-width: 3px;
+}
+
+
+/* Sytle For Please Click Image Text */
+.text {
+color: white;
+font-family: Verdana;
+font-size: 15px;
+text-align: center;
+margin-left: 40px;
+margin-right: 40px;
+padding: 5px;
+}
+
+
+/* Style For Gallery Div */
+.gallery {
+margin: 10px 13px;
+}
+
+
+/* Style For Images Within Gallery Div */
+.gallery img {
+width: 320px;
+padding: 5px;
+filter: brightness(100%);
+}
+
+
+/* Style For Images Within Gallery When Hovered Over */
+.gallery img:hover {
+filter: brightness(50%);
+}
+
+
+/* This Style Is Here To Remove Hyperlink Outline Around Footer Caused By Lightbox */
+.footerhyperlink {
+color: black;
+}
+
